@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" />
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=gabilamanullayev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910" alt="Profile Views" /> 
 </p>
 
 - 🌱 I’m currently learning **JavaScript**
