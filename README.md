@@ -57,20 +57,19 @@
   <a href="https://sass-lang.com" target="_blank"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
       width="40" height="40" /></a>
-<!-- Tailwind CSS -->
-<a href="tailwindcss.com" target="_blank">
-  <img src="cdn.jsdelivr.net" alt="tailwindcss" width="40" height="40"/>
-</a>
+  <a href="tailwindcss.com" target="_blank">
+    <img src="cdn.jsdelivr.net" alt="tailwindcss" width="40" height="40"/>
+  </a>
 
-<!-- Vue.js -->
-<a href="vuejs.org" target="_blank">
-  <img src="cdn.jsdelivr.net" alt="vuejs" width="40" height="40"/>
-</a>
+  <!-- Vue.js (Düzəldilmiş) -->
+  <a href="vuejs.org" target="_blank">
+    <img src="cdn.jsdelivr.net" alt="vuejs" width="40" height="40"/>
+  </a>
 
-<!-- TypeScript -->
-<a href="www.typescriptlang.org" target="_blank">
-  <img src="cdn.jsdelivr.net" alt="typescript" width="40" height="40"/>
-</a>
+  <!-- TypeScript (Düzəldilmiş) -->
+  <a href="www.typescriptlang.org" target="_blank">
+    <img src="cdn.jsdelivr.net" alt="typescript" width="40" height="40"/>
+  </a>
 
 
 
