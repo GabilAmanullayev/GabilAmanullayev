@@ -61,13 +61,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" 
        alt="tailwindcss" width="40" height="40"/>
 </a>
-
 <!-- Vue.js -->
 <a href="https://vuejs.org" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" 
        alt="vuejs" width="40" height="40"/>
 </a>
-
 <!-- TypeScript -->
 <a href="https://www.typescriptlang.org" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
